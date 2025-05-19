@@ -1,0 +1,4 @@
+C:/Users/DIEGO/source/repos/XRP Sentinel/build/CMakeFiles/post_quantum_crypto.dir
+C:/Users/DIEGO/source/repos/XRP Sentinel/build/CMakeFiles/quantum_safe_key_vault.dir
+C:/Users/DIEGO/source/repos/XRP Sentinel/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/DIEGO/source/repos/XRP Sentinel/build/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\DIEGO\source\repos\XRP Sentinel\build\CMakeFiles\cc5addb072862380510abcc76921da80\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{FEA9AA3C-DFBA-32E0-990B-2BFF5602C3DD}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
