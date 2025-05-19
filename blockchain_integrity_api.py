@@ -74,3 +74,4 @@ def verify_quantum_signature(state, signature=None):
 def identify_risk_factors(transaction):
     # Análise de fatores de risco específicos
     return {"unusual_patterns": 0, "high_value": False}
+

@@ -40,7 +40,7 @@ O **XRP Sentinel** é um sistema integrado de segurança para ecossistemas block
 ### Passo a Passo
 ```bash
 # Clone o repositório
-git clone https://github.com/yourusername/xrp-sentinel.git
+git clone https://github.com/PauloTuppy/xrp_sentinel.git
 cd xrp-sentinel
 
 # Instale dependências
